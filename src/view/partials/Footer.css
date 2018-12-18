@@ -1,0 +1,11 @@
+footer{
+    background-color: #DD8181;
+    color: white;
+    padding: 1% 0;
+    margin-top: 1%;
+
+}
+.container{
+    width: 960px;
+    margin: 0 auto;
+}

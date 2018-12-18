@@ -1,0 +1,47 @@
+.card-user{
+    box-sizing: border-box;
+    width: 31%;
+    float: left;
+    margin-top: 2%;
+    margin-left: 2%;
+    position: relative;
+    box-shadow: 0px 0.5px 3px 0px gray;
+}
+.card--light{
+    color: black;
+}
+
+.card--black{
+    background-color: #646464;
+    color: white;
+}
+
+
+.card__img{
+    display: block;
+    width: 100%;
+    border-radius: 0;
+    margin-bottom: 5%;
+}
+.card__content{
+    padding: 0% 4% 4% 4%;
+    font-size: 15px;
+}
+.card__title{
+    position: absolute;
+    bottom: 100px;
+    font-size: 25px;
+    left:10px;
+    color: white;
+    text-shadow: 1px 1px 1px black;
+}
+
+
+.clearfix:after{
+    display: block;
+    content: "";
+    clear: both;
+}
+.female-card{
+    background-color: #feebee !important;
+}
